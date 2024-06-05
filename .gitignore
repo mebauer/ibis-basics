@@ -1,4 +1,3 @@
 *.ipynb_checkpoints
 data/*
-*.db*
 .DS_Store
